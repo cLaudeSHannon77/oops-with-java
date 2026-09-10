@@ -2,8 +2,8 @@ public class Arithmetic {
 
     public static void main(String[] args) {
 
-        int a = 10;
-        int b = 5;
+        int a = 70;
+        int b = 25;
 
 
         System.out.println("\nArithmetic Operations");
